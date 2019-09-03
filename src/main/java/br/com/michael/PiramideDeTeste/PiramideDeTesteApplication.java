@@ -1,4 +1,4 @@
-package br.com.michael.Piramide.de.Teste;
+package br.com.michael.PiramideDeTeste;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

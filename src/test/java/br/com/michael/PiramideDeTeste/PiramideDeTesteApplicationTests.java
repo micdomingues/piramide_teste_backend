@@ -1,4 +1,4 @@
-package br.com.michael.Piramide.de.Teste;
+package br.com.michael.PiramideDeTeste;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
